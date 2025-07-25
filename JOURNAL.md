@@ -20,3 +20,22 @@ So after doing all of that, I started to work on my schematic for my project its
 <img width="1920" height="1080" alt="Screenshot 2025-07-03 7 23 07 PM" src="https://github.com/user-attachments/assets/d4de5dec-dee7-4d12-9ce5-32b76643585c" />
 
 So this is how I laid out my whole design for my schematic, I checked a couple of sources and ran ERC a couple of times, so far it looks all good so tomorrow I'll move onto working on the rest of the PCB board itself.
+
+# July 21, 2025 (8 hrs)
+
+So I can now see why everyone doesn't like making PCB boards for keyboards like this. I ended up loading up all the footprints into KiCad and oh my god are there a lot of switches I have to place. Using the DXF file I made yesterday I spent all of 2 hours trying to align all of the switches in the correct places when I realized at the end, OH, I accidentaly named my two rotary encoders switches so I'm missing two *face palms* so I decided to do away with two of the shortcut keys just to keep moving forward because of the event time contraints. 
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-04 6 27 06 PM" src="https://github.com/user-attachments/assets/b83326ce-85cf-405a-8b42-867d53f56269" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-08 3 19 30 AM" src="https://github.com/user-attachments/assets/86426a00-46e4-4735-b60f-155eb82539f0" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-20 1 03 57 PM" src="https://github.com/user-attachments/assets/6fc1c31c-30cf-429e-8593-6a64933d5797" />
+
+So after a long time everything looks pretty good to start wiring except its absolute madness with all of this. At this point, I thought it was pretty standard to deal with this much wiring but I ACTUALLY learned later that it would've been so much easier if I had wired my matrix differently but oh well, it is what it is now. Today I spent a lot of time going through all of the intense stuggle of wiring and still haven't finished so tomorrow will probably be the day I finish it.
+
+# July 23, 2025 (6 hrs)
+
+So today I ended up finishing all of the wiring on the keyboard and after using an unhealthy amount of vias, I finally was able to pass the DRC check. I decided that I had a little extra time on my hands and I do want to try and get that 1 extra point in highway just for the extra design and extra effort put in so I decided to add some silkscreen that I designed myself as well as my own logo to the front of the PCB which was also another first of mines. I spent most of today trying to figure out the dimensions of everything and adding in other things like the stabilizers for my longer keys and other things.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/350ec3c0-5733-4fb9-9f09-72e7343d604d" />
+
+
+
