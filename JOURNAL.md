@@ -37,5 +37,9 @@ So today I ended up finishing all of the wiring on the keyboard and after using 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/350ec3c0-5733-4fb9-9f09-72e7343d604d" />
 
+# July 24 (2 hrs)
 
+So I ended up forgetting that I needed to put the stabilizers in which led to a whole lotta rerouting on my part for all the routing that apparently led straight into drill holes (yayy). After that, I pretty much started on making the base for my keyboard, I decided that I would be using dovetail connections since I need to split my keyboard in half when it gets #D printed by printing legion.
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-24 11 36 29 PM" src="https://github.com/user-attachments/assets/167473a6-32a9-4e79-a1d9-3d2eb431892b" />
 
