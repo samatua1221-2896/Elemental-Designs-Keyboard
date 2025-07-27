@@ -61,3 +61,9 @@ I ended up being able to but the PCB into the keyboard case just to check if it 
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-26 12 36 59 AM" src="https://github.com/user-attachments/assets/cbefb673-2c06-4781-baa8-3ef2e4e1a2fb" />
 
+# July 26, 2025 (4 hrs)
+
+Spent most of today finishing up the touches and adding the final keys and keycaps, all of them will be custom with three different sizes, also added a slot for the cable to be attached to the RasPi since I forgot that earlier too, looks pretty good, going to start sourcing parts now and making the final submission.
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-26 4 57 49 PM" src="https://github.com/user-attachments/assets/8c6d8fc0-b0cb-4eb4-b39a-873901718dbd" />
+
