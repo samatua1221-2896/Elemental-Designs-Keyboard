@@ -43,3 +43,21 @@ So I ended up forgetting that I needed to put the stabilizers in which led to a 
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-24 11 36 29 PM" src="https://github.com/user-attachments/assets/167473a6-32a9-4e79-a1d9-3d2eb431892b" />
 
+# July 25, (7 hrs)
+
+So today I spent majority of my time getting everything working in CAD. Unfortunately, I realized too late that I could just add all of my switches into KiCAD to spare me much headache later in the process, but it all worked out eventually. Most of my time was spent getting the models from GrabCAD to place in Onshape since thats the software I usually use and making sure that the PCB was all good for me to place all of my THT components into. After that, I then made the decision that I wanted custom keycaps for all of my switches. Right now, buying my own keycaps would be pretty expensive for shipping and just getting them from printing legion seemed like the right thing to do, plus it would let me add my own touch of design into the process. I decided to make caps that were rounded at the top just for a more aesthetic feel, I also decided at this point that I might want a more open layout of my case because I want to show off the PCB itself and the silkscreen on it. 
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-25 9 09 05 PM" src="https://github.com/user-attachments/assets/1c25b54e-afbf-4ed9-b9e3-fd09af7560f0" />
+
+After that, I started to work on the case itself. I did notice that it would be harder for me to create a top for the case due to the whole keyboard, so I would go for an open layout. Due to this, I decided that it would be better for me to add some custom art straight into the case fitting with the whole elemental thing as well. I spent a couple hours looking into it, but I was able to draw up a sun and moon on my ipad in Adobe Fresco and convert it from a png to a dxf on an online converter. After that, it took a little while to play around with it but I was able to make my custom art lifted a little bit from the floor of the bottom of the case, also providing a little more thickness between the ground and the PCB. Even though it'll be covered up, it's a nice thing to have in the case that I ever switch out the PCB if I were to make another keyboard or using it as a case for another type of electronic.
+
+<img width="288" height="1379" alt="Sun Moon" src="https://github.com/user-attachments/assets/c0fdaa21-cb21-4b77-b6e3-a7a34b29b2e3" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-26 12 37 23 AM" src="https://github.com/user-attachments/assets/d1ddc809-3070-4cd2-9b1e-a7a250d7b1df" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-26 12 37 21 AM" src="https://github.com/user-attachments/assets/85b0c6f4-6c5f-4511-bd70-2ab80c3ff1ce" />
+
+After that, I spent a little but more time smoothing out the edges and making sure the case looks pretty good. The hardest part was splitting the case after the design was on their to make sure the design lines up on both pieces since they're being printed separetely.
+
+I ended up being able to but the PCB into the keyboard case just to check if it fits and yayy it works, tmr I'll spend more time finshing up the whole keyboard layout and all the custom keycaps, maybe starting on my BOM so I can get my submission in.
+
+<img width="1920" height="1080" alt="Screenshot 2025-07-26 12 36 59 AM" src="https://github.com/user-attachments/assets/cbefb673-2c06-4781-baa8-3ef2e4e1a2fb" />
+
