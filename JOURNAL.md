@@ -2,6 +2,8 @@
 | ------------- | ------------- | ------------- | ----------|
 | Elemental Designs Keyboard | @samatua1221-2896 | A custom mechanical keyboard | 7/20/25 |
 
+Time Spent Designing: 34 hrs
+
 # July 20, 2025 (7 hrs)
 
 So I've actually spent a lot of time wanting to have my own keyboard for a while now (especially when dealing with the thing that Apple calls its keybaord for ipads *cough**cough*ipad folio*cough**cough*) but this is really something I don't have too much experience in but plan on getting it down pretty easily. As of now I've already worked to design a couple of PCBs, one for hackpad and one for my own 3D pen, so seeing that majority of a keyboard is just the PCB I'm looking forward to this.
