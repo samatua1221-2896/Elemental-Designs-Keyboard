@@ -57,4 +57,4 @@ I do understand the preference of getting supplies from places like AliExpress, 
 |    Diodes                    |     90     |     $3.51     |     https://www.digikey.com/en/products/detail/onsemi/1N4148/458603    |
 |    3D Printed Parts                           |      87    |     $0.00    |    JLCPCB  |
 |     Pin Headers                |    1    |     $5.49     |      https://www.amazon.com/HiLetgo-20pcs-2-54mm-Single-Header/dp/B07R5QDL8D/ref=sr_1_5?crid=254VYPE3Q5ELH&dib=eyJ2IjoiMSJ9.CDJTXWT6R3-A91cecC5kI4kt0lUe2mhdl-tJZpNjZyVeipMxJAf7wd4WVfAobdOcpBuinhg5AWIvNAIwYSfEqRVDda5z2DbHkE5tZ9LkWZV4IPIgNd5J03Z0qTQrSmWWRglGOUxRof9QkJLxadP-Z7zNThcormej5L8TI04CwlY8PYbCv5xiWVNYY4XZj5tEj7HWdz9h6IOc4z6Fy8qhAE9rAQzwHLswXQvNrCQ8H_Q.Al3EkyqdSQBe4YI--T6xwP2SLL1ekzqUjNmUEv-6ATM&dib_tag=se&keywords=20+pin+header&qid=1753590092&sprefix=20+pin+heade%2Caps%2C320&sr=8-5      |
-|    Total Cost                          |           |     $119.32   |            |
+|    Total Cost                          |           |     $146.96   |            |
