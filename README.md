@@ -38,6 +38,14 @@ Schematic Diagram
 
 I do understand the preference of getting supplies from places like AliExpress, but unfortunately, living in Hawaii removes a lot of the options that are even availble on such websites. The best option for getting things to Hawaii in time for the Highway event is unfortunately going to need increased shipping. That means that some items in my BOM are a little pricier that AliExpress or otherwise counterparts but they are guaranteed able to arrive on time for the end of the event.
 
+## 3D Print Needs
+
+1X: Case - Bottom Left
+1x: Case - Bottom Right
+75x: 1U Keycap
+9x: 2U Keycap
+1x: 6.25 U Keycap
+
 ## Bill Of Materials
 
 |                     Item               |  Quantity |      Price    |                                      Link                                    |
