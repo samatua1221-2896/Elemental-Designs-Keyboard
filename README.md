@@ -44,8 +44,8 @@ I do understand the preference of getting supplies from places like AliExpress, 
 |----------------------------------------|-----------|---------------|-----------------------------------------------------------------------|
 |     Cherry MX Switches                     |     4 (92 count)     |     $63.96     |     (https://www.amazon.com/Cherry-Switch-Mechanical-Keyboard-Switches/dp/B0CBS5K172/ref=sr_1_3?crid=SQZNJRRWOJFO&dib=eyJ2IjoiMSJ9.kYp2_GcQkjzaFqUjb3BmAlS_W8yvdiNcEHKZrvJkE7uC_6TND85p0SFAAc_m9GVkMIGZZbLOVklZTHnoo2MVxOwEQ7B7v7KKlThoHqs32-RZyMKSsgwfIDPGvS0NS_GrTHQyhzJxqHEURJGA9ZCoo22OpTW4XwB9izgcJ_kK6DhBLua9T3wT_u6cGLKYrv2hO7FokpLt_xKIxVQoiBq51cFkdJgXz1UZLfs_j8wJZ6rFQSKxIQvkXJZVAb65oG6lawFVu7LIh9eet3PwfkcCNNOllBem0fzCBlP17SmmBeI.3XdLX58b13a8pdRRNPHUSjCIuJug0Kh3lBp3dZ4rIOw&dib_tag=se&keywords=cherry%2Bmx%2Bswitches&qid=1753586630&s=industrial&sprefix=cherry%2Bmx%2Bswitches%2Cindustrial%2C355&sr=1-3&th=1)    |
 |     Raspberry Pi Pico              |     1     |     $4.00    |     https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793    |
-|     Rotary Encoder               |     2     |     $0.00     |    N/A     |
-|    PCB                    |     1     |     $50.00     |        |
+|     Rotary Encoder               |     2     |     $0.00     |    Already Own     |
+|    PCB                    |     1     |     $50.00     |   N/A     |
 |    Diodes                    |     90     |     $3.51     |     https://www.digikey.com/en/products/detail/onsemi/1N4148/458603    |
 |    3D Printed Parts                           |      87    |     $0.00    |    JLCPCB  |
 |     Pin Headers                |    1    |     $5.49     |      https://www.amazon.com/HiLetgo-20pcs-2-54mm-Single-Header/dp/B07R5QDL8D/ref=sr_1_5?crid=254VYPE3Q5ELH&dib=eyJ2IjoiMSJ9.CDJTXWT6R3-A91cecC5kI4kt0lUe2mhdl-tJZpNjZyVeipMxJAf7wd4WVfAobdOcpBuinhg5AWIvNAIwYSfEqRVDda5z2DbHkE5tZ9LkWZV4IPIgNd5J03Z0qTQrSmWWRglGOUxRof9QkJLxadP-Z7zNThcormej5L8TI04CwlY8PYbCv5xiWVNYY4XZj5tEj7HWdz9h6IOc4z6Fy8qhAE9rAQzwHLswXQvNrCQ8H_Q.Al3EkyqdSQBe4YI--T6xwP2SLL1ekzqUjNmUEv-6ATM&dib_tag=se&keywords=20+pin+header&qid=1753590092&sprefix=20+pin+heade%2Caps%2C320&sr=8-5      |
