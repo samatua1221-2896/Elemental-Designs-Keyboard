@@ -2,7 +2,7 @@
 
 This is a fully custom-built mechanical keyboard with a 95% full keyboard, two rotary encoders, and run on a Raspberry Pi Pico.
 
-<img width="1501" height="557" alt="Screenshot 2025-07-26 4 57 49 PM" src="https://github.com/user-attachments/assets/34f04ae5-b19a-4b7e-bfb5-f892369150f9" />
+<img width="1370" height="531" alt="Screenshot 2025-08-01 11 26 59 PM" src="https://github.com/user-attachments/assets/057ffe8b-b58f-49ba-8523-bf69bc69e89e" />
 
 ## Features
 
@@ -23,7 +23,7 @@ This is my first dive into creating a full size keyboard and having a lot more u
 
 Case w/o PCB
 
-<img width="1920" height="1080" alt="Screenshot 2025-07-26 12 37 17 AM" src="https://github.com/user-attachments/assets/5db4aaca-ecdf-4719-a5b5-ded223a621b2" />
+<img width="1252" height="822" alt="Screenshot 2025-08-01 11 21 06 PM" src="https://github.com/user-attachments/assets/e4d3442a-b2f8-403d-b2c1-580314699cd0" />
 
 PCB Front & Back
 
