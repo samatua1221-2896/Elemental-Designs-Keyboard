@@ -70,3 +70,7 @@ Spent most of today finishing up the touches and adding the final keys and keyca
 <img width="1920" height="1080" alt="Screenshot 2025-07-26 4 57 49 PM" src="https://github.com/user-attachments/assets/8c6d8fc0-b0cb-4eb4-b39a-873901718dbd" />
 
 Just wrapped up writing the README.md and the code, going to work on the finished submission now, hoping for the best!
+
+# August 1, 2025 (3 hrs)
+
+Ok, so couple things I need to do, I need to mainly fix up the CAD and make the case a lot more complex, I'll just make a bunch more inlays into the case that go with the design too.
